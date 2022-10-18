@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/rn-paper-2022.blank-l97480j6",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve iNwY2Jd24kinlJ0hiMI7 --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
