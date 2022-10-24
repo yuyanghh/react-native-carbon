@@ -6,7 +6,7 @@
   "type": "module",
   "homepage": "{{ homepage }}",
   "scripts": {
-    "serve": "npx backlight@latest serve iNwY2Jd24kinlJ0hiMI7 --open"
+    "serve": "npx backlight@latest serve ChNYUV8jyzCtPAlZTK1V --open"
   },
   "dependencies": {
     "carbon-native": "^1.3.2",
